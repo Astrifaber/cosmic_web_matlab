@@ -1,0 +1,7 @@
+# Files exceeding GitHub's 100MB limit
+matlab.mat
+93036838-0046-4923-8C70-6BC7316F65E3.mp4
+
+# Excluded directories
+snapshots/
+.claude/
